@@ -4,7 +4,11 @@ A simple daemon I run on my server to listen to the network, see if there's a Do
 
 ## Running
 
-```rb
+```sh
 bundle install
 run doxie_control.rb start
 ```
+
+## License
+
+This library is released under the [MIT License](LICENSE).
