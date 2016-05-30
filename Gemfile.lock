@@ -1,0 +1,26 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    daemons (1.2.3)
+    doxie (1.0.0)
+    doxie-scanner (1.0.0)
+      frisky
+    em-synchrony (1.0.5)
+      eventmachine (>= 1.0.0.beta.1)
+    eventmachine (1.2.0.1)
+    frisky (0.1.2)
+      em-synchrony
+      eventmachine (>= 1.0.0)
+      log_switch (~> 1.0.0)
+    log_switch (1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  daemons
+  doxie
+  doxie-scanner
+
+BUNDLED WITH
+   1.12.3
