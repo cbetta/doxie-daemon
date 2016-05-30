@@ -6,7 +6,7 @@ A simple daemon I run on my server to listen to the network, see if there's a Do
 
 ```sh
 bundle install
-run doxie_control.rb start
+ruby doxie_control.rb start
 ```
 
 ## License
